@@ -21,6 +21,10 @@ TODO:
 Please consider citing our work if you find this repo is useful for your projects.
 
 ```bibtex
-@article{
+@article{shen2024diverse,
+  title={Diverse Sign Language Translation},
+  author={Shen, Xin and Shen, Lei and Yuan, Shaozu and Du, Heming and Sun, Haiyang and Yu, Xin},
+  journal={arXiv preprint arXiv:2410.19586},
+  year={2024}
 }
 ```
